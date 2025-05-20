@@ -4,8 +4,6 @@
 
 Gymzie is a modern web application that simplifies how users book fitness appointments. Whether you're a gym enthusiast or just starting your wellness journey, Gymzie empowers you to take control of your fitness routine—on your terms.
 
-![Gymzie Screenshot](./Screenshot%202025-05-20%20at%209.52.21%E2%80%AFPM.png)
-
 ---
 
 ## 🚀 Features
